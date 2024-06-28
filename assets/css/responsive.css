@@ -1,0 +1,2604 @@
+@media(min-width:1925px) {
+    .wave .svg-1 {
+        display: block;
+    }
+
+    .wave .svg-2 {
+        display: none;
+    }
+
+    .wave.brown {
+        top: 0%;
+    }
+
+    .wave.brown.pantrygreen svg {
+        height: 218px;
+    }
+
+    .wave.brown.light-cofee {
+        top: 0;
+        height: 240px;
+        overflow: hidden;
+    }
+
+    section.trendz-sec.trendz {
+        padding-top: 100px;
+    }
+
+    .wave.brown.pantrygreen {
+        top: 0px;
+        overflow: hidden;
+        height: 200px;
+    }
+
+}
+
+
+@media(min-width:1600px) {
+    .container {
+        max-width: 1600px;
+        width: 100%;
+    }
+}
+
+@media(max-width:1599px) {
+    .sub-menu-holder {
+        padding-top: 47px;
+    }
+
+    .universal-title {
+        font-size: 60px;
+        line-height: 70px;
+    }
+
+    .universal-para {
+        font-size: 25px;
+    }
+
+    section.lange-slider-sec {
+        padding-top: 50px;
+        padding-bottom: 70px;
+    }
+
+    .pine-apple-image {
+        right: -5%;
+        max-width: 120px;
+    }
+
+    .coffe-image img {
+        height: 500px;
+    }
+
+    .sixteen-universal {
+        font-size: 50px;
+        line-height: 60px;
+    }
+
+    .key-stone-image {
+        max-width: 500px;
+        width: 100%;
+    }
+
+    .key-stone-holder .universa-anchor {
+        padding-top: 50px;
+    }
+
+    .key-stone-product {
+        max-width: 600px;
+    }
+
+    .usa {
+        top: -35px;
+    }
+
+    .tensz-logo {
+        max-width: 250px;
+    }
+
+    .two-five {
+        font-size: 22px;
+        line-height: 30px;
+    }
+
+    .logo-main-tendz {
+        max-width: 550px;
+    }
+
+    .wave.brown {
+        height: 250px;
+        overflow: hidden;
+    }
+
+    .tendx-cofee {
+        top: -32%;
+        left: -35px;
+    }
+
+    .three-zero {
+        font-size: 25px;
+        line-height: 35px;
+    }
+
+    .news-letter-holder {
+        max-width: 840px;
+        padding-top: 100px;
+        padding-bottom: 120px;
+    }
+
+    .footer-logo {
+        max-width: 270px;
+    }
+
+    .main-footer p,
+    .main-footer a {
+        font-size: 16px;
+    }
+
+    .wave.btm-footer {
+        height: 200px;
+        overflow: hidden;
+        bottom: -130px;
+    }
+
+    .row .data-footer-links:last-child .quick-links {
+        padding-top: 30px;
+    }
+
+
+
+    section.key-stone-pantry-sec.light-cofee p {
+        line-height: 35px;
+    }
+
+    .four-zero {
+        font-size: 35px;
+        line-height: 45px;
+    }
+
+    .packet-grid.candy {
+        max-width: 150px;
+        width: 100%;
+    }
+
+    div#tabs-content .swiper-button-prev {
+        left: -32px;
+
+    }
+
+    div#tabs-content .swiper-button-next {
+        right: -32px;
+    }
+
+    section.trendz-sec.coffe .tendx-cofee img {
+        height: 1000px;
+    }
+
+    section.trendz-sec.coffe .tendx-cofee {
+        top: -20%;
+    }
+
+    section.trendz-sec.btm-slider .tendx-cofee img {
+        height: 1000px;
+    }
+
+    .choco-side {
+        max-width: 100px;
+    }
+
+    header.custome-header.light-green .nav-list-holder {
+        left: -50px;
+    }
+
+    .logo-main-header.keystone {
+        max-width: 300px;
+    }
+
+    header.custome-header.light-green .header-grid {
+        padding: 30px 0px;
+    }
+
+    header.custome-header.light-green .sub-menu-holder {
+        padding-top: 35px;
+    }
+
+    .tab-image.blueberry {
+        max-width: 120px;
+        width: 100%;
+    }
+
+    section.trendz-sec.btm-slider .universa-anchor {
+        max-width: 200px;
+    }
+
+    .universa-anchor.width {
+        max-width: 180px;
+    }
+
+    .chocopins.peach {
+        max-width: 230px;
+    }
+
+    section.key-stone-pantry-sec.pantrygreen .key-stone-holder {
+        margin-top: 0px;
+    }
+
+    section.trendz-sec.dark-choclo .tendx-cofee img {
+        height: 1000px;
+    }
+
+    .tabs-grid-new ul li a {
+        padding: 10px 9px;
+        font-size: 16px;
+    }
+
+    .tabs span,
+    .sort-data select {
+        font-size: 16px;
+    }
+
+    .sort-data {
+
+        gap: 4px;
+
+    }
+
+    .grid-gluten {
+        max-width: 935px;
+        gap: 50px;
+    }
+
+    section.lange-slider-sec .btm-spacing {
+        padding-bottom: 150px;
+    }
+
+    section.key-stone-pantry-sec.gluten-sec {
+        padding-top: 90px;
+        padding-bottom: 140px;
+    }
+
+    .midle-sweet {
+        max-width: 100px;
+    }
+
+    .three-sweets {
+        max-width: 130px;
+
+    }
+
+    .almond-two.blue-berry {
+        max-width: 140px;
+    }
+
+    .midle-sweet.small-berry {
+        max-width: 100px;
+    }
+
+    .chocopins.peachs {
+        max-width: 240px;
+    }
+
+    .almond-two.tredz-nuts {
+        max-width: 150px;
+    }
+
+    .cart-title-details-of-product {
+        max-width: 675px;
+    }
+
+    .custom_radio input[type="radio"]+label {
+        font-size: 16px;
+        white-space: nowrap;
+    }
+
+    .cart-data {
+        gap: 15px;
+    }
+
+    .product-cart-slider {
+        max-width: 700px;
+    }
+
+    .mini-image-slider-btm {
+        max-width: 75px;
+        height: 75px;
+
+    }
+
+    .btm-slider-cart {
+        max-width: 500px;
+    }
+
+    .row.check {
+        padding-top: 30px;
+    }
+
+    .quantity-holder {
+        padding-top: 20px;
+    }
+
+    .holder-check-box p {
+        font-size: 20px;
+        line-height: 20px;
+    }
+
+    .cart-title-here h4 {
+        font-size: 45px;
+        line-height: 50px;
+    }
+
+    .show-all-product-add {
+        margin-top: 30px;
+    }
+
+
+
+    .main-title-review .four-zero {
+        padding-bottom: 20px;
+    }
+
+    .submit-review {
+        padding-top: 30px;
+        padding-bottom: 50px;
+    }
+
+    section.key-stone-pantry-sec.product-dec-sec .grid-product-main {
+        padding: 0px;
+        padding-bottom: 40px;
+    }
+
+    .langs-tab.datacart .tab-title {
+        padding-top: 0px;
+        padding-bottom: 30px;
+    }
+
+    .langs-tab.datacart .grid-product-main {
+        padding-bottom: 20px !important;
+    }
+
+    .beery-image {
+        max-width: 150px;
+    }
+
+    .avaecadu {
+        max-width: 200px;
+
+    }
+
+    .side-image-cofee {
+        max-width: 200px;
+
+    }
+
+    .side-image-cofee {
+        max-width: 170px;
+    }
+
+    .wave.brown.table {
+        height: 150px;
+    }
+
+    .holder-tabele-data {
+        max-width: 1100px;
+    }
+
+    .nutration-title h4 {
+        font-size: 25px;
+    }
+
+    .sub-title {
+        font-size: 25px;
+        line-height: 43px;
+        padding-bottom: 10px;
+    }
+
+    .almond-image {
+        max-width: 70px;
+    }
+
+    .side-coffe-data {
+        max-width: 200px;
+    }
+
+    .holder-main-title.keystone h1 {
+        padding-bottom: 20px;
+    }
+
+
+
+    .three-five {
+        font-size: 30px;
+        line-height: 35px;
+    }
+
+    .side-form-data {
+        max-width: 415px;
+    }
+
+    .about-langs-chocolte-here p {
+        font-size: 20px;
+        line-height: 32px;
+    }
+
+    .about-master {
+        max-width: 450px;
+    }
+
+    .william h4 {
+        font-size: 35px;
+        line-height: 41px;
+    }
+
+    .william h3 {
+        font-size: 45px;
+        line-height: 60px;
+    }
+
+    .key-stone-holder.about p {
+        line-height: 36px;
+    }
+
+    .blog-title {
+        font-size: 25px;
+
+    }
+
+    .btm-data-para {
+        padding-top: 50px;
+    }
+
+    .add-to-cart-holder ul {
+        left: -15%;
+    }
+
+    .nav-list-holder.data {
+        left: 0px;
+    }
+
+    .side-image {
+        max-width: 460px;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        width: 100%;
+    }
+
+    .packet-grid.vegan {
+        margin-right: 0px;
+
+    }
+
+    .holder-main-title.data .universal-title {
+        font-size: 50px;
+        line-height: 60px;
+    }
+
+    .slider-holder.icecream {
+        margin-right: initial;
+    }
+
+    .key-stone-holder .sixteen-universal {
+        padding-bottom: 20px;
+    }
+
+    .langs-tab.light-cofee .tabs-grid-new ul li a {
+        padding: 10px;
+    }
+
+    .bberry {
+        bottom: -25px;
+    }
+}
+
+@media(max-width:1399px) {
+
+    .nav-list-holder a,
+    .nav-list-holder p {
+        font-size: 15px;
+    }
+
+    .logo-main-header {
+        max-width: 150px;
+        width: 100%;
+    }
+
+    .add-to-cart-holder ul {
+        gap: 25px;
+    }
+
+    .free-shiping p {
+        font-size: 15px;
+    }
+
+    .add-to-cart-holder ul li {
+        max-width: 15px;
+        width: 100%;
+    }
+
+    .sub-menu-holder {
+        padding-top: 30px;
+    }
+
+    li.menu-item-has-children ul.sub-menu {
+        padding: 20px 15px;
+        width: 280px;
+    }
+
+    .universal-title {
+        font-size: 45px;
+        line-height: 55px;
+    }
+
+    .holder-main-title {
+        max-width: 416px;
+        padding-bottom: 20px;
+    }
+
+    .universal-para {
+        font-size: 22px;
+        line-height: 30px;
+    }
+
+    .universa-anchor a {
+        font-size: 16px;
+        line-height: 30px;
+        padding: 8px 10px;
+    }
+
+    section.lange-slider-sec {
+        padding-top: 40px;
+        padding-bottom: 60px;
+    }
+
+    .coffe-image img {
+        height: 450px;
+    }
+
+    .slider-main-image {
+        max-width: 490px;
+        width: 100%;
+        margin: 0 auto;
+    }
+
+    .sixteen-universal {
+        font-size: 35px;
+        line-height: 45px;
+    }
+
+    .key-stone-image {
+        max-width: 400px;
+        padding-bottom: 10px;
+    }
+
+    .key-stone-product {
+        max-width: 500px;
+    }
+
+    .image-packet {
+        max-width: 70px;
+    }
+
+    .key-stone-holder .universa-anchor {
+        padding-top: 30px;
+    }
+
+    section.key-stone-pantry-sec {
+        padding-top: 50px;
+    }
+
+    .chocopins {
+        bottom: 0;
+        max-width: 100px;
+    }
+
+    .key-stone-holder {
+        max-width: 521px;
+    }
+
+    .usa {
+        top: -30px;
+        max-width: 45px;
+        width: 100%;
+    }
+
+    .tensz-logo {
+        max-width: 200px;
+    }
+
+    .two-five {
+        font-size: 18px;
+        line-height: 25px;
+    }
+
+    .logo-main-tendz {
+        max-width: 450px;
+    }
+
+    .tendx-cofee img {
+        height: 500px;
+    }
+
+    .tendx-cofee {
+        top: -130px;
+        left: 0;
+    }
+
+    .wave.brown {
+        height: 150px;
+    }
+
+    section.trendz-sec .wave.brown.two {
+        bottom: -140px;
+    }
+
+    .recipe-holder {
+        max-width: 730px;
+    }
+
+    .three-zero {
+        font-size: 20px;
+        line-height: 25px;
+    }
+
+    .title-recipe-customer {
+        padding-bottom: 30px;
+    }
+
+    .recipe-sec {
+
+        padding-top: 80px;
+
+    }
+
+    .right-warm {
+        max-width: 120px;
+    }
+
+    .left-warm {
+        max-width: 80px;
+        left: 0;
+    }
+
+    .customer-recipe-holder .universa-anchor {
+        max-width: 149px;
+        padding-top: 30px;
+    }
+
+    .title-warm-peach .three-zero {
+        padding-bottom: 10px;
+    }
+
+    .warm-peach {
+        padding: 20px 30px;
+    }
+
+    .recipe-holder .sixteen-universal {
+        padding-bottom: 20px;
+    }
+
+    .customer-recipe-holder {
+        padding-top: 30px;
+    }
+
+    .footer-cofee img {
+        height: 500px;
+    }
+
+    .footer-cofee {
+        top: -165px;
+    }
+
+    .news-letter-holder {
+        max-width: 690px;
+        padding-top: 70px;
+        padding-bottom: 90px;
+    }
+
+    .subribe-heading .sixteen-universal {
+        padding-bottom: 20px;
+    }
+
+    input.sbmt-btn {
+        max-width: 150px;
+        font-size: 15px;
+    }
+
+    .email-field,
+    .email-field::-webkit-input-placeholder {
+        font-size: 17px;
+    }
+
+    .sucribe-form-holder input {
+        height: 45px;
+        padding: 10px 15px;
+    }
+
+    input.sbmt-btn {
+        height: 47px !important;
+        padding: 0px !important;
+    }
+
+    .footer-logo {
+        max-width: 195px;
+    }
+
+    .main-footer p,
+    .main-footer a {
+        font-size: 13px;
+        line-height: 25px;
+    }
+
+    .title-quick-links h4 {
+        font-size: 18px;
+        padding-bottom: 10px;
+    }
+
+    .quick-links {
+        max-width: fit-content;
+        margin: 0 auto;
+    }
+
+    .main-footer-cofee img {
+        height: 220px;
+    }
+
+    .main-footer-cofee {
+        bottom: 4%;
+    }
+
+    .image-pine-apple {
+        max-width: 100px;
+    }
+
+    .choco-chips {
+        max-width: 100px;
+
+    }
+
+    section.key-stone-pantry-sec.light-cofee h6.four-zero {
+        padding-bottom: 10px;
+    }
+
+    .four-zero {
+        font-size: 30px;
+        line-height: 40px;
+    }
+
+    .two-zero {
+        font-size: 14px;
+        line-height: 20px;
+    }
+
+    .name-detail-here p {
+        font-size: 13px;
+        line-height: 17px;
+    }
+
+    .tab-slider-title {
+        height: 95px;
+    }
+
+    .tab-slider-holder {
+        height: 470px;
+    }
+
+    .rating-star {
+        max-width: 15px;
+        width: 100%;
+    }
+
+    .tabs ul {
+        padding-bottom: 40px;
+    }
+
+    .tabs ul li a {
+        font-size: 16px;
+    }
+
+    .tab-title {
+        padding-bottom: 30px;
+    }
+
+    section.trendz-sec.coffe .tendx-cofee {
+        z-index: -1;
+    }
+
+    .universa-anchor.tab {
+        padding-top: 30px;
+    }
+
+    section.lange-slider-sec.light-cofee.btm-top .holder-main-title {
+        max-width: 500px;
+    }
+
+    .slider-holder.no-slider {
+        max-width: 500px;
+        width: 100%;
+        margin: 0 auto;
+    }
+
+    .kaju {
+        max-width: 50px;
+    }
+
+    section.trendz-sec.btm-slider .tendx-cofee img {
+        height: 700px;
+    }
+
+    section.trendz-sec.btm-slider .tendx-cofee {
+        top: -15%;
+    }
+
+    section.trendz-sec.btm-slider .universa-anchor {
+        padding-top: 25px;
+    }
+
+    .choco-side {
+        max-width: 70px;
+    }
+
+    header.custome-header.light-green .header-grid {
+        padding: 20px 0px;
+    }
+
+    header.custome-header.light-green .sub-menu-holder {
+        padding-top: 22px;
+    }
+
+    .vegan-pic {
+        max-width: 80px;
+        width: 100%;
+        margin: 0 auto;
+    }
+
+    .packet-grid.vegan {
+        gap: 25px;
+    }
+
+    .chocopins.blackberry {
+        max-width: 150px;
+    }
+
+    section.key-stone-pantry-sec.pantrygreen p {
+        padding-bottom: 10px;
+    }
+
+    section.key-stone-pantry-sec.pantrygreen .sixteen-universal {
+        padding-bottom: 15px;
+    }
+
+    .langs-tab.pantrygreen {
+        padding-top: 30px;
+    }
+
+    .tab-image.blueberry {
+        max-width: 100px;
+    }
+
+    section.trendz-sec.btm-slider .universa-anchor {
+        max-width: 180px;
+    }
+
+    .universa-anchor.width {
+        max-width: 160px;
+    }
+
+    .slider-holder.icecream {
+        max-width: 380px;
+    }
+
+    .slider-holder.icecream {
+        max-width: 350px;
+    }
+
+    .chocopins.peach {
+        max-width: 170px;
+    }
+
+    header.custome-header.light-green .nav-list-holder {
+        left: -75px;
+    }
+
+    section.trendz-sec.dark-choclo .tendx-cofee img {
+        height: 800px;
+    }
+
+    section.trendz-sec.dark-choclo .tendx-cofee {
+        top: -25%;
+    }
+
+    section.trendz-sec.dark-choclo {
+        padding-bottom: 150px;
+    }
+
+    .tabs-grid-new ul li a {
+        font-size: 14px;
+        padding: 10px 5px;
+    }
+
+
+    .tabs span,
+    .sort-data select {
+        font-size: 14px;
+    }
+
+    .sort-data select {
+        padding: 8px;
+    }
+
+    .grid-gluten {
+        max-width: 800px;
+        gap: 50px;
+    }
+
+    .gluten-holder .two-five {
+        line-height: 22px;
+    }
+
+    .almond-two {
+        max-width: 50px;
+    }
+
+    .kaju-two {
+        max-width: 40px;
+    }
+
+    .three-sweets {
+        max-width: 100px;
+    }
+
+    .midle-sweet {
+        max-width: 80px;
+    }
+
+    .btm-kaju {
+        max-width: 40px;
+    }
+
+    .tab-holder.inside div#tabs-content {
+        padding-top: 30px;
+    }
+
+    .almond-two.blue-berry {
+        max-width: 120px;
+    }
+
+    .midle-sweet.small-berry {
+        max-width: 90px;
+    }
+
+    .chocopins.peachs {
+        max-width: 150px;
+    }
+
+    .almond-two.tredz-nuts {
+        max-width: 130px;
+    }
+
+    .product-cart-slider {
+        max-width: 500px;
+    }
+
+    .cart-title-details-of-product {
+        max-width: 565px;
+    }
+
+    .custom_radio input[type="radio"]+label {
+        font-size: 14px;
+        line-height: 15px;
+    }
+
+    .holder-check-box p {
+        font-size: 16px;
+        line-height: 15px;
+    }
+
+    .custom_radio input[type="radio"]+label:before,
+    .custom_radio input[type="radio"]+label:after {
+        width: 15px;
+        height: 15px;
+    }
+
+    .mini-image-slider-btm {
+        max-width: 50px;
+        height: 50px;
+    }
+
+    .btm-slider-cart {
+        max-width: 400px;
+        padding-top: 20px;
+    }
+
+    .smoothie-mix .four-zero {
+        line-height: 40px;
+    }
+
+    .holder-check-box {
+        padding: 10px;
+    }
+
+    .mix,
+    .quantity-holder p,
+    .delivery-frequency h6,
+    .delivery-frequency select,
+    ul.list-mini-nav-product li a,
+    .rating-of-product-cart p {
+        font-size: 15px;
+    }
+
+    .cart-data {
+        flex-direction: column;
+        padding: 10px 20px;
+    }
+
+    .delivery-frequency select {
+        padding: 5px;
+    }
+
+    .delivery-frequency h6 {
+        line-height: normal;
+        padding-bottom: 10px;
+    }
+
+    .universa-anchor.cart {
+        max-width: 150px;
+        padding-top: 20px;
+    }
+
+    .smoothie-mix {
+        padding-top: 20px;
+    }
+
+    section.lange-slider-sec.cart-spacing {
+        padding-bottom: 100px;
+    }
+
+    .cart-title-here h4 {
+        font-size: 30px;
+        line-height: 35px;
+    }
+
+    .image-here-select-product {
+        max-width: 165px;
+    }
+
+    .add-qty input {
+        max-width: 70px;
+        height: 35px;
+        font-size: 18px;
+    }
+
+    .cart-product-data {
+        padding: 10px;
+    }
+
+    .cart-slide-title-grid {
+        padding-top: 40px;
+    }
+
+    .show-all-product-add {
+        margin-top: 10px;
+    }
+
+    .chekout-btn a {
+        font-size: 16px;
+    }
+
+    .taxes p {
+        font-size: 16px;
+        line-height: 20px;
+    }
+
+    .add-qty .price {
+        font-size: 14px;
+    }
+
+    .totla-price p {
+        font-size: 16px;
+    }
+
+    .bg-image-here {
+        bottom: 25px;
+    }
+
+    .holder-product-description .four-zero {
+        padding-bottom: 20px;
+    }
+
+    section.key-stone-pantry-sec.product-dec-sec {
+        padding-bottom: 130px;
+    }
+
+    .main-title-review {
+        max-width: 345px;
+    }
+
+    .main-title-review .universa-anchor {
+        padding-top: 20px;
+        padding-bottom: 30px;
+    }
+
+    .weritee p {
+        font-size: 16px;
+    }
+
+    .input-name-here input,
+    .input-name-here textarea,
+    .input-name-here input::-webkit-input-placeholder,
+    .input-name-here textarea::-webkit-input-placeholder {
+        font-size: 15px;
+    }
+
+    .rating-data-star {
+        padding: 20px 0px;
+    }
+
+    .sbmt-btn-review {
+        padding: 5px 25px;
+        font-size: 15px;
+        line-height: 35px;
+    }
+
+    .submit-review {
+        padding-top: 20px;
+        padding-bottom: 30px;
+    }
+
+    .client-review p {
+        font-size: 16px;
+    }
+
+    .report-review {
+        font-size: 15px;
+    }
+
+    .client-review {
+        padding-bottom: 15px;
+        margin-bottom: 20px;
+    }
+
+    .client-review h5 {
+        font-size: 18px;
+        padding-bottom: 5px;
+    }
+
+    .universa-anchor a.review-form {
+        padding: 6px 25px;
+    }
+
+    .main-title-review p,
+    .rating-data-star p {
+        font-size: 16px;
+        line-height: 21px;
+    }
+
+    .main-title-review .four-zero {
+        line-height: 35px;
+    }
+
+    section.key-stone-pantry-sec.product-dec-sec .two-zero {
+        font-size: 16px;
+    }
+
+    .beery-image {
+        max-width: 130px;
+    }
+
+    .avaecadu {
+        max-width: 170px;
+    }
+
+    .side-image-cofee {
+        max-width: 160px;
+    }
+
+    .side-image-cofee {
+        max-width: 155px;
+        bottom: 15%;
+    }
+
+    .title-table-data {
+        padding-bottom: 60px;
+    }
+
+    .nutration-title h4 {
+        font-size: 20px;
+    }
+
+    .sub-title {
+        font-size: 20px;
+        line-height: 30px;
+    }
+
+    .para-table p {
+        font-size: 14px;
+    }
+
+    .holder-tabele-data {
+        max-width: fit-content;
+    }
+
+    .grid-nutration-facts {
+        gap: 100px;
+    }
+
+    .grid-nutration-facts .nutration-holder:first-child:after {
+        right: -50px;
+    }
+
+    section.table-data-sec {
+        padding-bottom: 130px;
+    }
+
+    .side-coffe-data {
+        max-width: 150px;
+    }
+
+    .holder-main-title.keystone h1 {
+        padding-bottom: 10px;
+    }
+
+    .three-five {
+        font-size: 25px;
+        line-height: 30px;
+    }
+
+    .side-form-data p {
+        font-size: 16px;
+        line-height: 22px;
+    }
+
+    .side-modal-from-holder input,
+    .side-modal-from-holder input::-webkit-input-placeholder {
+        font-size: 16px;
+        line-height: 30px;
+    }
+
+    .side-modal-from-holder input {
+        height: 45px;
+        padding: 10px 20px;
+        margin-bottom: 15px;
+    }
+
+    input.submit-modal-from {
+        line-height: normal !important;
+    }
+
+    .modal-form-holder {
+        max-width: 800px;
+    }
+
+    .form-modal-grid {
+        padding: 40px 30px;
+        padding-bottom: 0px;
+    }
+
+    .about-langs-chocolte-here .sixteen-universal {
+        padding-bottom: 10px;
+    }
+
+    .about-langs-chocolte-here p {
+        font-size: 16px;
+        line-height: 27px;
+    }
+
+    .about-master {
+        max-width: 350px;
+    }
+
+    .william h4 {
+        font-size: 25px;
+        line-height: 35px;
+    }
+
+    .william h3 {
+        font-size: 30px;
+        line-height: 45px;
+    }
+
+    .key-stone-holder.about p {
+        line-height: 30px;
+    }
+
+    .almond-two.about {
+        top: 0;
+    }
+
+    .key-stone-product.about {
+        max-width: 500px;
+    }
+
+    .review-coffee {
+        max-width: 170px;
+    }
+
+    .data-side-blog-here {
+        max-width: 650px;
+    }
+
+    .blog-title {
+        font-size: 20px;
+    }
+
+    .details-blog-btm p {
+        font-size: 15px;
+    }
+
+    ul.ingredient-list li {
+        font-size: 16px;
+    }
+
+    ul.ingredient-list.number {
+        padding-top: 15px;
+    }
+
+    ul.ingredient-list.number li {
+        width: 100%;
+        padding-bottom: 10px;
+    }
+
+    .btm-data-para {
+        padding-top: 20px;
+    }
+
+    ul.ingredient-list {
+        gap: 5px;
+    }
+
+    .blog-details {
+        padding-top: 50px;
+    }
+
+    .title-product-category.blog {
+        max-width: 700px;
+    }
+
+    .add-to-cart-holder ul {
+        left: -30%;
+    }
+
+    .side-image {
+        max-width: 300px;
+    }
+
+    .slide-cart-holder {
+        width: 550px;
+    }
+
+    .show-all-product-add {
+        height: 65vh;
+    }
+
+    .holder-main-title.data .universal-title {
+        font-size: 40px;
+        line-height: 50px;
+    }
+
+    .key-stone-holder .sixteen-universal {
+        padding-bottom: 15px;
+    }
+
+    .bberry {
+        bottom: 0;
+        max-width: 80px;
+    }
+
+    .grid-track.slect select {
+        height: 45px;
+        font-size: 16px;
+
+    }
+
+    .side-modal-from-holder.track-form-modal input.submit-modal-from {
+        height: 50px;
+    }
+
+    section.lange-slider-sec.track-sec {
+        padding-bottom: 100px;
+    }
+}
+
+@media(max-width:1199px) {
+    .logo-main-header {
+        max-width: 120px;
+    }
+
+    .sub-menu-holder {
+        padding-top: 17px;
+    }
+
+    .universal-title {
+        font-size: 40px;
+        line-height: 50px;
+    }
+
+    .universal-para {
+        font-size: 18px;
+        line-height: 25px;
+    }
+
+    .lange-title .universa-anchor {
+        margin-top: 20px;
+    }
+
+    .slider-main-image {
+        max-width: 400px;
+
+    }
+
+    .pine-apple-image {
+        right: 0;
+        max-width: 90px;
+        bottom: 10px;
+    }
+
+    .sixteen-universal {
+        font-size: 30px;
+        line-height: 40px;
+    }
+
+    .key-stone-image {
+        max-width: 350px;
+    }
+
+    .key-stone-product {
+        max-width: 400px;
+    }
+
+    section.key-stone-pantry-sec {
+        padding-top: 40px;
+    }
+
+    .coffe-image img {
+        height: 340px;
+    }
+
+    .tensz-logo {
+        max-width: 180px;
+    }
+
+    .two-five {
+        font-size: 16px;
+        line-height: 22px;
+    }
+
+    .tendz-holder .universa-anchor {
+        padding-top: 20px;
+    }
+
+    .almond-tendz {
+        max-width: 80px;
+        right: -10px;
+    }
+
+    .logo-main-tendz {
+        max-width: 400px;
+    }
+
+    .footer-cofee img {
+        height: 400px;
+    }
+
+    .footer-cofee {
+        top: -135px;
+    }
+
+    .sucribe-form-holder {
+        padding-top: 30px;
+    }
+
+    .news-letter-holder {
+        padding-top: 50px;
+        padding-bottom: 60px;
+    }
+
+    .quick-links {
+        max-width: fit-content;
+        margin: 0 auto;
+    }
+
+    .footer-logo-holder,
+    .news-letter-holder {
+        padding-bottom: 50px;
+    }
+
+    .footer-logo {
+        max-width: 195px;
+        margin: 0 auto;
+    }
+
+    .main-footer p,
+    .main-footer a {
+        font-size: 15px;
+        line-height: 25px;
+    }
+
+    .subcribe-news-letter .wave.btm-footer {
+        height: 180px;
+        overflow: hidden;
+    }
+
+    .footer-cofee img {
+        height: 300px;
+    }
+
+    .row .data-footer-links:last-child .quick-links {
+        padding-top: 0px;
+    }
+
+    .main-footer-cofee img {
+        height: 200px;
+    }
+
+    .quick-links {
+        padding-top: 0px;
+    }
+
+
+    section.key-stone-pantry-sec.light-cofee p {
+        line-height: 25px;
+    }
+
+    section.key-stone-pantry-sec.light-cofee .universa-anchor {
+        padding-top: 20px;
+    }
+
+    section.trendz-sec.coffe .tendx-cofee img {
+        height: 700px;
+    }
+
+    .slider-holder.no-slider {
+        max-width: 430px;
+    }
+
+    .four-zero {
+        font-size: 25px;
+        line-height: 30px;
+    }
+
+    .tab-image {
+        max-width: 50px;
+    }
+
+    section.trendz-sec.btm-slider .tendx-cofee {
+        z-index: -1;
+    }
+
+    .logo-main-header.keystone {
+        max-width: 200px;
+    }
+
+    header.custome-header.light-green .nav-list-holder {
+        left: -40px;
+    }
+
+    .chocopins.peach {
+        bottom: 0;
+        max-width: 135px;
+    }
+
+    section.trendz-sec.dark-choclo .tendx-cofee img {
+        height: 600px;
+    }
+
+    header.custome-header.light-brown .nav-list-holder.data {
+        left: 0;
+    }
+
+    .tabs-grid-new ul {
+        flex-wrap: wrap;
+        gap: 20px;
+    }
+
+    .grid-product-main {
+        grid-template-columns: repeat(3, minmax(0, 1fr));
+    }
+
+    .tabs-grid-new {
+        flex-direction: column;
+        gap: 10px;
+    }
+
+    .sort-data {
+        gap: 4px;
+        right: 0;
+        padding-bottom: 20px;
+    }
+
+    .almond-two,
+    .kaju-two,
+    .three-sweets,
+    .midle-sweet,
+    .btm-kaju {
+        z-index: -1;
+    }
+
+    .tab-holder.inside div#tabs-content {
+        padding-top: 20px;
+    }
+
+    .almond-two.tredz-nuts {
+        max-width: 100px;
+    }
+
+    .product-cart-slider {
+        margin: 0 auto;
+        padding-bottom: 50px;
+    }
+
+    .cart-title-details-of-product {
+        margin: 0 auto;
+    }
+
+    .cart-data {
+        gap: 5px;
+    }
+
+    .smoothie-mix .four-zero {
+        line-height: 35px;
+    }
+
+    .btm-slider-cart {
+        max-width: 300px;
+    }
+
+    .cart-title-here h4 {
+        font-size: 25px;
+        line-height: 30px;
+    }
+
+    .add-qty .price {
+        font-size: 16px;
+    }
+
+    .add-qty input {
+        font-size: 15px;
+    }
+
+    section.key-stone-pantry-sec.product-dec-sec {
+        padding-bottom: 100px;
+        padding-top: 50px;
+    }
+
+    section.lange-slider-sec.cart-spacing {
+        padding-bottom: 125px;
+    }
+
+    section.what-people-says-sec {
+        padding-top: 60px;
+    }
+
+    .write-a-review-holder {
+        max-width: 700px;
+    }
+
+    .client-review p {
+        font-size: 15px;
+        line-height: 20px;
+    }
+
+    section.key-stone-pantry-sec.product-dec-sec.cartdata {
+        padding-top: 50px;
+        padding-bottom: 145px;
+    }
+
+    .beery-image {
+        max-width: 120px;
+    }
+
+    .avaecadu {
+        max-width: 150px;
+    }
+
+    .side-image-cofee {
+        max-width: 130px;
+        bottom: 10%;
+    }
+
+    .side-image-cofee {
+        max-width: 130px;
+    }
+
+    .nutration-title h4 {
+        font-size: 18px;
+    }
+
+    .sub-title {
+        font-size: 16px;
+        line-height: 20px;
+    }
+
+    .title-table-data {
+        padding-bottom: 30px;
+    }
+
+    .almond-cart,
+    .almond-image {
+        max-width: 60px;
+    }
+
+    .side-coffe-data {
+        max-width: 120px;
+    }
+
+    .cross-icon {
+        right: 10px;
+        top: 10px;
+    }
+
+    .three-five {
+        font-size: 22px;
+        line-height: 25px;
+    }
+
+    .blog-details {
+        padding-top: 30px;
+    }
+
+    .details-blog-btm p {
+        font-size: 14px;
+    }
+
+    ul.ingredient-list li {
+        font-size: 15px;
+    }
+
+    .direction {
+        padding-top: 20px;
+    }
+
+    .holder-main-title.data .universal-title {
+        font-size: 35px;
+        line-height: 40px;
+    }
+
+    .key-stone-holder .sixteen-universal {
+        padding-bottom: 10px;
+    }
+
+    .langs-tab.light-cofee .sort-data {
+        position: static;
+        right: 0;
+    }
+
+    .tabs ul {
+        padding-bottom: 20px;
+    }
+
+    .create-an-account {
+        margin-bottom: 30px;
+    }
+
+    .side-modal-from-holder {
+        padding-top: 20px;
+    }
+
+    ul.track-list li {
+        font-size: 15px;
+    }
+
+    .modal-content.track .two-five {
+        font-size: 18px;
+    }
+
+    .side-modal-from-holder.track-form-modal label {
+        font-size: 16px;
+    }
+
+    .shiping-details {
+        padding-top: 20px;
+    }
+}
+
+@media(max-width:991px) {
+    .header-grid {
+        flex-direction: column;
+        align-items: start;
+        gap: 15px;
+    }
+
+    .bottom-nav-list ul {
+        gap: 10px;
+        border-top: 1px solid #0000;
+        padding-top: 10px;
+        flex-direction: column;
+        align-items: start;
+    }
+
+    .sub-menu-holder {
+        position: static;
+        padding: 0px;
+    }
+
+    li.menu-item-has-children ul.sub-menu {
+        width: 100%;
+        background: transparent;
+        padding: 0px;
+        padding-top: 10px;
+    }
+
+    ul.sub-menu li a {
+        color: #941b1f;
+    }
+
+    .top-nav-list {
+        display: none;
+    }
+
+    li.menu-item-has-children {
+        width: 100%;
+    }
+
+    li.menu-item-has-children::after {
+        position: absolute;
+        top: 5px;
+        right: 20px;
+        height: 15px;
+        width: 10px;
+        content: "";
+        clip-path: polygon(50% 42%, 0 0, 100% 0);
+        background: #480101;
+    }
+
+
+    .menu-icon-ham-burger {
+        display: block;
+
+    }
+
+    .holder-logo-main {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        width: 100%;
+    }
+
+    .add-to-cart-holder {
+        padding-bottom: 20px;
+    }
+
+    .data {
+        display: none;
+    }
+
+    .nav-list-holder {
+        width: 100%;
+    }
+
+    .universal-title {
+        font-size: 35px;
+        line-height: 45px;
+    }
+
+    .lange-title {
+        padding-bottom: 50px;
+    }
+
+    .holder-main-title {
+        max-width: 100%;
+        padding-bottom: 15px;
+    }
+
+    .key-stone-product {
+        margin: 0 auto;
+        padding-bottom: 50px;
+    }
+
+    .key-stone-holder {
+        max-width: 100%;
+    }
+
+    .sixteen-universal {
+        font-size: 25px;
+        line-height: 30px;
+    }
+
+    .packet-grid {
+        padding-top: 20px;
+        margin: 0;
+    }
+
+    .logo-main-tendz {
+        margin: 0 auto;
+        padding-top: 50px;
+    }
+
+    .warm-peach {
+        margin-bottom: 50px;
+    }
+
+    .right-warm {
+        max-width: 100px;
+    }
+
+    .left-warm {
+        max-width: 70px;
+    }
+
+    .quick-links {
+        max-width: 500px;
+    }
+
+    .image-pine-apple {
+        max-width: 80px;
+        right: initial;
+        left: 50%;
+        top: -80px;
+    }
+
+    .tabs ul {
+        padding-bottom: 30px;
+        flex-wrap: wrap;
+    }
+
+    section.trendz-sec.coffe .tendx-cofee img {
+        height: 500px;
+    }
+
+    section.trendz-sec.coffe .tendx-cofee {
+        top: -10%;
+    }
+
+    div#tabs-content .swiper-button-prev:after,
+    .swiper-rtl .swiper-button-next:after,
+    div#tabs-content .swiper-button-next:after,
+    .swiper-rtl .swiper-button-prev:after {
+        font-size: 25px;
+    }
+
+    .universa-anchor.tab {
+        padding-top: 20px;
+    }
+
+    .choco-chips {
+        max-width: 70px;
+    }
+
+    ul.sub-menu li a:hover {
+        color: #420000;
+    }
+
+    header.custome-header.light-green .nav-list-holder {
+        left: -0px;
+    }
+
+    header.custome-header.light-green ul.sub-menu li a {
+        color: #54ac5e;
+    }
+
+    header.custome-header.light-green .sub-menu-holder {
+        padding-top: 0px;
+    }
+
+    .packet-grid.vegan {
+        padding-top: 40px;
+    }
+
+    section.trendz-sec.dark-choclo .tendx-cofee img {
+        height: 400px;
+    }
+
+    section.trendz-sec.dark-choclo .tendx-cofee {
+        top: 0px;
+        height: auto;
+    }
+
+    section.trendz-sec.dark-choclo .tab-image.second {
+        left: 0;
+        max-width: 100px;
+    }
+
+    section.lange-slider-sec.white.btm-top.data {
+        display: block;
+    }
+
+    section.lange-slider-sec.white.btm-top.data .slider-holder.no-slider {
+        max-width: 400px;
+    }
+
+    header.custome-header.light-brown .bottom-nav-list ul.sub-menu li a {
+        color: #4d2f1c;
+    }
+
+    .pine-apple-image {
+        animation: none;
+        bottom: 15px !important;
+        z-index: -1;
+    }
+
+    .pine-apple-image.strawberry {
+        right: -100px;
+        top: 0;
+        z-index: -1;
+    }
+
+    .cart-title-here h4 {
+        font-size: 20px;
+        line-height: 25px;
+    }
+
+    .totla-price p {
+        font-size: 14px;
+    }
+
+    .beery-image {
+        max-width: 100px;
+    }
+
+    .avaecadu {
+        max-width: 120px;
+    }
+
+    .holder-product-description.new-holder {
+        max-width: 100%;
+    }
+
+    .side-coffe-data {
+        max-width: 100px;
+    }
+
+    section.lange-slider-sec {
+        padding-bottom: 150px;
+    }
+
+    .william h4 {
+        font-size: 20px;
+        line-height: 30px;
+    }
+
+    .william h3 {
+        font-size: 25px;
+        line-height: 35px;
+    }
+
+    .about-langs-chocolte-here .four-zero {
+        padding-bottom: 10px;
+    }
+
+    section.trendz-sec.about-traditional.btm-slider {
+        padding-top: 80px;
+    }
+
+    .packet-grid.candy.about {
+        bottom: 0;
+        max-width: 100px;
+    }
+
+    .key-stone-holder.about p {
+        line-height: 25px;
+    }
+
+    .about-master {
+        padding-top: 30px;
+    }
+
+    .key-stone-product.about {
+        max-width: 400px;
+    }
+
+    span.cart-quantity {
+        top: 0;
+        left: initial;
+        height: 15px;
+        width: 15px;
+        font-size: 9px;
+        line-height: 16px;
+        right: -15px;
+    }
+
+    .review-coffee {
+        max-width: 120px;
+    }
+
+    .image-blog-holder {
+        max-width: 300px;
+        margin: 0 auto;
+        padding-bottom: 30px;
+    }
+
+    .blog-title {
+        font-size: 18px;
+    }
+
+    .add-to-cart-holder ul {
+        left: 0;
+    }
+
+    span.total-price {
+        left: 40px;
+        font-size: 14px;
+        top: 9px;
+    }
+
+    .holder-main-title.data .universal-title {
+        font-size: 30px;
+        line-height: 35px;
+    }
+
+    .slider-holder.icecream {
+        margin: 0 auto;
+    }
+
+    .track-sing-in {
+        padding-top: 50px;
+        margin: 0px;
+    }
+}
+
+@media(max-width:767px) {
+    .coffe-image {
+        animation: none;
+    }
+
+    .sixteen-universal {
+        font-size: 25px;
+        line-height: 35px;
+    }
+
+    .key-stone-image {
+        max-width: 300px;
+    }
+
+    .sixteen-universal {
+        font-size: 22px;
+        line-height: 30px;
+    }
+
+    .key-stone-product {
+        padding-bottom: 30px;
+    }
+
+    .tensz-logo {
+        max-width: 150px;
+    }
+
+    .logo-main-tendz {
+        max-width: 350px;
+    }
+
+    .tendx-cofee img {
+        height: 300px;
+    }
+
+    .warm-peach {
+        margin-bottom: 30px;
+    }
+
+    .three-zero {
+        font-size: 18px;
+        line-height: 20px;
+    }
+
+    .recipe-sec {
+        padding-top: 100px;
+    }
+
+    .recipe-holder .universa-anchor {
+        max-width: fit-content;
+    }
+
+    .prefred-logo {
+        padding-bottom: 10px;
+    }
+
+    .subcribe-news-letter .wave {
+        height: 190px;
+        overflow: hidden;
+        top: -130px;
+    }
+
+    .subribe-heading {
+        max-width: fit-content;
+        margin: 0 auto;
+    }
+
+    .image-pine-apple {
+        max-width: 80px;
+        right: -80px;
+    }
+
+    .form-sign-up-here {
+        flex-direction: column;
+        gap: 10px;
+    }
+
+    input.sbmt-btn {
+        width: 100%;
+        max-width: 100%;
+        position: static;
+    }
+
+    .footer-cofee img {
+        height: 250px;
+    }
+
+    .footer-logo-holder,
+    .news-letter-holder,
+    .quick-links {
+        padding-bottom: 30px;
+        text-align: start;
+    }
+
+    ul.social-media-links {
+        margin: 0;
+    }
+
+    .footer-logo {
+        margin: 0px;
+    }
+
+
+    .usa {
+        top: initial;
+        bottom: 0;
+    }
+
+    .main-footer-cofee {
+        z-index: -1;
+    }
+
+
+
+    .packet-grid.candy {
+        max-width: 120px;
+    }
+
+    .slider-holder.no-slider {
+        max-width: 430px;
+        width: 100%;
+        margin: 0 auto;
+    }
+
+    .almond-two {
+        top: 10px;
+    }
+
+    .four-zero {
+        font-size: 22px;
+        line-height: 25px;
+    }
+
+    .two-zero {
+        font-size: 15px;
+    }
+
+    section.trendz-sec.btm-slider .tendx-cofee img {
+        height: 500px;
+    }
+
+    section.trendz-sec.btm-slider .tendx-cofee img {
+        height: 400px;
+    }
+
+    .tab-image.blueberry {
+        max-width: 80px;
+    }
+
+    section.trendz-sec.btm-slider .universa-anchor {
+        max-width: 150px;
+    }
+
+    .chocopins.peach {
+        max-width: 100px;
+    }
+
+    section.trendz-sec.dark-choclo .tendx-cofee img {
+        height: 300px;
+    }
+
+    section.trendz-sec.dark-choclo .tendx-cofee {
+        z-index: -1;
+    }
+
+    section.lange-slider-sec.white.btm-top.data .coffe-image {
+        z-index: -1;
+    }
+
+    .grid-product-main {
+        grid-template-columns: repeat(2, minmax(0, 1fr));
+    }
+
+    .grid-gluten {
+        gap: 30px;
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+
+    .gluten-holder {
+        max-width: 85px;
+    }
+
+    section.key-stone-pantry-sec.gluten-sec {
+        padding-top: 50px;
+    }
+
+    section.lange-slider-sec .btm-spacing .almond-two {
+        top: 8%;
+    }
+
+    .chocopins.peachs {
+        max-width: 130px;
+    }
+
+    .holder-check-box {
+        margin-bottom: 20px;
+    }
+
+    .slider-holder-cart-product .row {
+        padding: 0px 10px;
+        max-width: fit-content;
+        margin: 0 auto;
+    }
+
+    .smoothie-mix .four-zero {
+        padding-bottom: 20px;
+    }
+
+    .quantity-grid {
+        max-width: 120px;
+    }
+
+    .smoothie-mix .four-zero {
+        line-height: 30px;
+    }
+
+    .slide-cart-holder {
+        width: 500px;
+
+    }
+
+    .spacing-here {
+        padding: 0px 15px;
+    }
+
+    section.key-stone-pantry-sec.product-dec-sec {
+        padding-bottom: 120px;
+        padding-top: 0px;
+    }
+
+    section.lange-slider-sec.cart-spacing.light-green .wave.rotate-now {
+        bottom: -182px;
+    }
+
+    section.lange-slider-sec.cart-spacing {
+        padding-bottom: 80px;
+    }
+
+    .langs-tab.datacart {
+        padding: 20px;
+    }
+
+    .langs-tab.datacart .tab-title {
+        padding-bottom: 20px;
+    }
+
+    .beery-image {
+        display: none;
+    }
+
+    .avaecadu {
+        display: none;
+    }
+
+    .side-image-cofee {
+        max-width: 100px;
+    }
+
+    .side-image-cofee {
+        max-width: 100px;
+    }
+
+    .grid-nutration-facts {
+        flex-direction: column;
+        gap: 50px;
+    }
+
+    .grid-nutration-facts .nutration-holder:first-child:after {
+        display: none;
+    }
+
+    .almond-cart,
+    .almond-image {
+        max-width: 50px;
+    }
+
+    .side-coffe-data {
+        max-width: 80px;
+    }
+
+    .logo-modal-form {
+        max-width: 300px;
+    }
+
+    .side-form-data {
+        max-width: 500px;
+        margin: 0 auto;
+        padding-top: 30px;
+    }
+
+    .coffe-image img {
+        height: 170px;
+    }
+
+    section.trendz-sec.about-traditional.btm-slider {
+        padding-top: 0px;
+    }
+
+    .about-langs-chocolte-here p {
+        font-size: 15px;
+        line-height: 25px;
+    }
+
+    .review-coffee {
+        max-width: 100px;
+        display: none;
+    }
+
+    ul.ingredient-list li {
+        width: 100%;
+    }
+
+    section.lange-slider-sec.btm-spacing.blog.light-cofee {
+        padding-bottom: 100px;
+    }
+
+    .pine-apple-image.strawberry,
+    .right-warm,
+    .image-pine-apple,
+    .pine-apple-image,
+    .tab-image,
+    .almond-two {
+        display: none;
+    }
+
+    .chocopins.blackberry {
+        max-width: 95px;
+    }
+
+    .almond-tendz {
+        max-width: 40px;
+    }
+
+    .bg-image-here {
+        bottom: 40px;
+    }
+
+    section.lange-slider-sec.new .usa {
+        top: initial;
+        bottom: 0;
+    }
+
+    .holder-main-title.data .universal-title {
+        font-size: 25px;
+        line-height: 30px;
+    }
+
+    input.sbmt-btn {
+        margin: 0px;
+    }
+
+    .direction {
+        padding-top: 0px;
+    }
+}
+
+@media(max-width:575px) {
+    .universal-title {
+        font-size: 30px;
+        line-height: 40px;
+    }
+
+    .universal-para {
+        font-size: 16px;
+        line-height: 25px;
+    }
+
+    .universa-anchor a {
+        font-size: 15px;
+    }
+
+    .key-stone-product {
+        max-width: 300px;
+    }
+
+    .key-stone-image {
+        max-width: 250px;
+    }
+
+    .sixteen-universal {
+        font-size: 20px;
+        line-height: 26px;
+    }
+
+    .almond-tendz {
+        max-width: 60px;
+        right: 0;
+    }
+
+    .tendx-cofee img {
+        height: 200px;
+    }
+
+    .warm-peach {
+        flex-direction: column;
+    }
+
+    .footer-logo {
+        max-width: 150px;
+    }
+
+    .footer-cofee img {
+        height: 185px;
+    }
+
+    .main-footer {
+        padding-bottom: 0px;
+    }
+
+    .choco-chips {
+        bottom: -30%;
+    }
+
+    .tab-slider-holder {
+        height: auto;
+    }
+
+    .tab-slider-title {
+        height: auto;
+    }
+
+    section.trendz-sec.btm-slider .tendx-cofee img {
+        height: 300px;
+    }
+
+    section.trendz-sec.btm-slider .tendx-cofee {
+        z-index: -1;
+        top: -7%;
+    }
+
+    .grid-product-main {
+        grid-template-columns: repeat(1, minmax(0, 1fr));
+    }
+
+    .slide-cart-holder {
+        width: 360px;
+    }
+
+    .cart-product-data {
+        padding: 10px;
+        flex-direction: column;
+        align-items: center;
+    }
+
+
+
+    .side-image-cofee {
+        max-width: 70px;
+    }
+
+    .william h4 {
+        font-size: 18px;
+        line-height: 25px;
+    }
+
+    .william h3 {
+        font-size: 22px;
+        line-height: 30px;
+    }
+
+    section.trendz-sec.about-traditional.btm-slider {
+        padding-bottom: 100px;
+    }
+
+    .modal-content.track {
+        padding: 10px;
+    }
+
+}
+
+@media(max-width:425px) {
+    .tabs ul li a {
+        font-size: 14px;
+    }
+
+
+}
